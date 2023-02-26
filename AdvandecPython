@@ -1,0 +1,10 @@
+def a(num):
+    return num>0
+    
+print(a(-10))
+
+print (True if -10>0 else False)
+
+# Labda fuction
+# List and dict comprehension
+# 
